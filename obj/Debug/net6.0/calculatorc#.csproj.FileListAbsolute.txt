@@ -1,0 +1,15 @@
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\bin\Debug\net6.0\calculatorc#.exe
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\bin\Debug\net6.0\calculatorc#.deps.json
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\bin\Debug\net6.0\calculatorc#.runtimeconfig.json
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\bin\Debug\net6.0\calculatorc#.dll
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\bin\Debug\net6.0\calculatorc#.pdb
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.csproj.AssemblyReference.cache
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.AssemblyInfoInputs.cache
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.AssemblyInfo.cs
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.csproj.CoreCompileInputs.cache
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.dll
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\refint\calculatorc#.dll
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.pdb
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\calculatorc#.genruntimeconfig.cache
+C:\Users\benb8\OneDrive\Desktop\Web Development\codecademy\calculatorc#\obj\Debug\net6.0\ref\calculatorc#.dll
