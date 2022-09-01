@@ -1,4 +1,4 @@
-# C# Project 
+# C# Calculator 
 
 Calculator built with C# using the .NET environment terminal.
 
